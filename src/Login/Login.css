@@ -1,0 +1,46 @@
+.LoginPage {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100vh;
+}
+
+.input-group {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: row;
+}
+
+.form-label {
+  font-size: 20px;
+  font-weight: 400;
+  margin-right: 10px;
+}
+
+.form-control {
+  padding: 5px;
+  border: 1px solid #ccc;
+}
+
+.btn {
+  color: #ffffff;
+  background-color: #0522ff;
+  border: 1px solid #0522ff;
+  border-radius: 7px;
+  padding: 10px 20px;
+  font-size: 20px;
+  font-weight: 300;
+  width: 100%;
+}
+
+.forgotPassord {
+  display: flex;
+  justify-content: space-between;
+  color: #4c9eff;
+}
+
+a {
+  text-decoration: none;
+}
