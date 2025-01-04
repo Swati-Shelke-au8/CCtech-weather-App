@@ -75,6 +75,12 @@ function Register() {
                 Register
               </button>
             </div>
+            <div className="col-12 forgotPassord">
+              <p>
+                <a href="/">Already Register</a>
+              </p>
+              <p></p>
+            </div>
           </form>
         </div>
       </div>
