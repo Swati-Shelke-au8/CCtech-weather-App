@@ -1,5 +1,5 @@
-import "./Login.css";
 import React from "react";
+import "../Login/Login.css";
 
 function ForgotPassword() {
   return (
